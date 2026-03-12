@@ -1,6 +1,8 @@
-# Project Proposal Writer
+# “钳程课题宝Skills”使用说明
 
 通用课题申报书撰写助手 - An AI-powered tool for writing research project proposals.
+
+![](assets\01.png)
 
 ## 概述
 
