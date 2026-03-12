@@ -2,7 +2,7 @@
 
 通用课题申报书撰写助手 - An AI-powered tool for writing research project proposals.
 
-![](assets\01.png)
+![](./assets/01.png)
 
 ## 概述
 
